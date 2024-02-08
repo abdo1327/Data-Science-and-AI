@@ -24,14 +24,14 @@ The primary objective of this capstone project was to forecast the successful la
 - Employed SQL queries to extract specific insights such as unique launch site names, payload mass statistics, and the date of the first successful landing outcome.
 ### Build a Dashboard with Plotly Dash 
 The Plotly Dash dashboard for SpaceX launch data includes:
--Launch Site Drop-down: Users choose a launch site.
--Success Pie Chart: Shows success/failure distribution based on the selected site.
--Payload Range Slider: Filters launches by payload mass.
--Success Payload Scatter Chart: Displays payload mass vs. success/failure, color-coded by booster version.
+- Launch Site Drop-down: Users choose a launch site.
+- Success Pie Chart: Shows success/failure distribution based on the selected site.
+- Payload Range Slider: Filters launches by payload mass.
+- Success Payload Scatter Chart: Displays payload mass vs. success/failure, color-coded by booster version.
 These features enable users to:
-1.Identify the site with the most successful launches and highest success rate.
-2.Analyze how payload mass affects launch success.
-3.Determine success rates for different payload ranges and booster versions."
+1. Identify the site with the most successful launches and highest success rate.
+2. Analyze how payload mass affects launch success.
+3. Determine success rates for different payload ranges and booster versions."
 ### Predictive Analysis (Classification)
 - Explored the data to understand its features.
 - Standardized all features to ensure they had the same scale.
