@@ -57,7 +57,7 @@ These features enable users to:
 -  `4.ipynb`: Jupyter Notebook with the exploratory data analysis and vizs.
 -  `5_SQL_&_sqllite`:upyter Notebook containing the connection to SQL database using sqlite
 -  `6_Launch_Sites_Locations_Analysis_with_Folium`: Jupyter Notebook mapping the lunch locations using Folium lib  
--  `7_Machine_Learning_Prediction.ipynb`: Jupyter Notebook detailing the predictive analysis using classification models and compar thier preformnce.
+-  `7_Machine_Learning_Prediction.ipynb`: Jupyter Notebook detailing the creating of the classification models and compar thier preformnce.
 -  `spacex_dash_app.py`: python code to create interactive dashboard uisng Dash and ploty.
 -  `spacex_launch_dash.csv`: the dataset uesd by `spacex_dash_app.py`
 -  `Dashboard 1`: image for the interactive dashboard  visualization and analysis.
